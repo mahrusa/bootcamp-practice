@@ -1,0 +1,15 @@
+{
+  "name": "langguess",
+  "version": "1.0.0",
+  "description": "for guessing language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mahrusa",
+  "license": "ISC",
+  "dependencies": {
+    "franc": "^5.0.0",
+    "langs": "^2.0.0"
+  }
+}
